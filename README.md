@@ -1,6 +1,8 @@
-# admin
+# admin dashboard Web / Tab / Mobile full responsive with breack poin logic in ui
 
-A new Flutter project.
+| ![admin](https://user-images.githubusercontent.com/40641142/203154822-00decdc5-424e-451a-8984-749f0c2ad8ae.gif) |
+| :------------: |
+| ** Web / Tab / Mobile full responsive ** |
 
 ## Getting Started
 
